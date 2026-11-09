@@ -118,8 +118,11 @@ export default function LibraryPage() {
         />
       </div>
 
-      <footer className="mt-12 text-center text-xs text-slate-500">
-        Veriler tarayıcının LocalStorage alanında saklanır.
+      <footer className="mt-12 text-center text-xs text-slate-500 flex flex-col gap-1 items-center">
+        <p>Veriler tarayıcının LocalStorage alanında saklanır.</p>
+        <p>
+          Created by <span className="font-medium text-slate-400">Atay Mert (JaWiXa)</span>
+        </p>
       </footer>
 
       {formTarget && (

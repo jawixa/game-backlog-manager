@@ -2,7 +2,7 @@
 
 🌐 **Dil / Language:** [Türkçe](#-türkçe) · [English](#-english)
 
-**Canlı demo / Live demo:** _https://app.netlify.com/teams/atay-mert-calicilar/projects_
+**Canlı demo / Live demo:** _https://game-backlog-manager.netlify.app_
 
 ![Game Backlog Manager](./screenshots/home.png)
 
@@ -45,7 +45,7 @@ src/
 ## Kurulum
 
 ```bash
-git clone <https://github.com/jawixa/Game-Backlog-Manager>
+git clone https://github.com/jawixa/game-backlog-manager
 cd game-backlog-manager
 npm install
 npm run dev
@@ -120,7 +120,7 @@ src/
 ## Getting Started
 
 ```bash
-git clone <https://github.com/jawixa/Game-Backlog-Manager>
+git clone https://github.com/jawixa/game-backlog-manager
 cd game-backlog-manager
 npm install
 npm run dev
